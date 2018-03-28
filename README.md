@@ -2,8 +2,9 @@
 
 Network Provider is an Ionic3-based provider that detects the network change in application and notifies the user with an alert.
 
-  - Import the provider in app.module and app.component
-  - Call the .networkDetect() function in app.component constructor
+  - Download and put the `network` folder
+  - Import the provider in `app.module` and `app.component`
+  - Call the `networkDetect()` function in `app.component` constructor
   - See the magic!     
        
 ---
